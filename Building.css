@@ -1,0 +1,12 @@
+img{
+    width:300px;
+    height:250px;
+    border-style:solid;
+    padding:5px;
+    border-radius:50%;
+    border-color:teal;
+}
+body{
+    text-align:center;
+    background-image:linear-gradient(to right,blue,red,blue)    
+}
